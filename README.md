@@ -38,14 +38,6 @@ This project aims to build a multilabel classification model for identifying hat
 - **Validation Data**: Maintained high performance, showing robust generalization.  
 - **Test Data**: Achieved consistent results, validating the model's reliability on unseen data.  
 
-### Key Metrics:
-| Metric       | Value   |
-|--------------|---------|
-| **Accuracy** | 98.5%   |
-| **Precision**| 97.8%   |
-| **Recall**   | 96.2%   |
-| **F1-Score** | 97.0%   |
-
 ---
 
 ## Conclusion  
